@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1 className='text-2xl font-semibold'>React Google Map API Integration</h1>
+      <h1 className='text-2xl font-semibold'>React web App Google Map API Integration</h1>
     </>
   )
 }
